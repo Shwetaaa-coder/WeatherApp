@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.controls {
+    margin-bottom: 15px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#weather, #forecast {
+    margin-top: 20px;
+}
+
+.weather-card, .forecast-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    border-radius: 8px;
+    background-color: #f0f8ff;
+}
+
+.weather-card img, .forecast-card img {
+    width: 50px;
+    height: 50px;
+}
