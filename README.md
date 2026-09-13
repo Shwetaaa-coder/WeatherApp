@@ -6,43 +6,29 @@ The application displays essential weather details such as temperature, weather 
 
 ## ✨ Features
 
-* 🔍 Search weather by city
-* 📅 View 5-day weather forecast
-* 🌡️ Display current temperature
-* ☁️ Show current weather conditions
-* 💧 Display humidity levels
-* 💨 Display wind speed
-* 🌅 Show sunrise time
-* 🌇 Show sunset time
-* 📱 Responsive and user-friendly interface
-* 🌐 Fetch weather information using a weather API
+- 🔍 Search weather by city
+- 📅 View 5-day weather forecast
+- 🌡️ Display current temperature
+- ☁️ Show current weather conditions
+- 💧 Display humidity levels
+- 💨 Display wind speed
+- 🌅 Show sunrise time
+- 🌇 Show sunset time
+- 📱 Responsive and user-friendly interface
+- 🌐 Fetch weather information using a weather API
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js, JavaScript, HTML5, CSS3
-* **API:** OpenWeather API
-* **Styling:** CSS
-* **Tools:** Git, GitHub
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **API:** OpenWeather API
+- **Styling:** CSS
+- **Tools:** Git, GitHub
 
 ## 📸 Screenshots
 
-### Weather Dashboard
+### Weather Dashboard && City Search & Forecast
 
-*Add your application screenshot here.*
-
-```markdown
-<img width="1118" height="457" alt="image" src="https://github.com/user-attachments/assets/d76151ee-9735-4c0b-94a7-b60c9a0dac87" />
-
-```
-
-### City Search & Forecast
-
-
-
-```markdown
-<img width="1062" height="599" alt="image" src="https://github.com/user-attachments/assets/6ffd9c79-d26f-4af5-ba20-91bfd5c44bc8" />
-
-```
+<img width="1062" height="599" alt="City Search and Forecast" src="https://github.com/user-attachments/assets/6ffd9c79-d26f-4af5-ba20-91bfd5c44bc8" />
 
 ## 🚀 Getting Started
 
@@ -52,16 +38,16 @@ Follow these steps to run the project locally.
 
 Make sure you have the following installed:
 
-* Node.js
-* npm
-* Git
+- Node.js
+- npm
+- Git
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Shwetaaa-coder/weather-app.git
+git clone https://github.com/Shwetaaa-coder/WeatherApp.git
 ```
 
 2. Navigate to the project directory:
