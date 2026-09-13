@@ -31,15 +31,17 @@ The application displays essential weather details such as temperature, weather 
 *Add your application screenshot here.*
 
 ```markdown
-![Weather Dashboard](./screenshots/weather-dashboard.png)
+<img width="1118" height="457" alt="image" src="https://github.com/user-attachments/assets/d76151ee-9735-4c0b-94a7-b60c9a0dac87" />
+
 ```
 
 ### City Search & Forecast
 
-*Add your application screenshot here.*
+
 
 ```markdown
-![5-Day Forecast](./screenshots/forecast.png)
+<img width="1062" height="599" alt="image" src="https://github.com/user-attachments/assets/6ffd9c79-d26f-4af5-ba20-91bfd5c44bc8" />
+
 ```
 
 ## 🚀 Getting Started
@@ -112,10 +114,8 @@ The project demonstrates API integration, dynamic data rendering, user input han
 
 ## 🌐 Live Demo
 
-*Add your deployed application URL here.*
-
 ```text
-https://your-weather-app-url.netlify.app
+https://weather-app-seven-phi-89.vercel.app
 ```
 
 ## 🔮 Future Improvements
