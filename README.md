@@ -98,11 +98,10 @@ The main objective of the Weather App is to provide users with a simple and acce
 
 The project demonstrates API integration, dynamic data rendering, user input handling, and the development of a responsive frontend application.
 
-## 🌐 Live Demo
+## 🔗 Live Demo
 
-```text
 https://weather-app-seven-phi-89.vercel.app
-```
+
 
 ## 🔮 Future Improvements
 
